@@ -2,7 +2,7 @@
   "Device1": {
     "Token_id": "vZZEj8=2gA9a",
     "Expired_Date": "9999-09-09",
-    "is_active": "false"
+    "is_active": "true"
   },
   "Device2": {
     "Token_id": "♥️",
