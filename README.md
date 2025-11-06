@@ -20,8 +20,8 @@
     "is_active": "true"
   },
   "Device5": {
-    "Token_id": "♥️",
-    "Expired_Date": "9999-09-09",
+    "Token_id": "$Yk*-rk29eNf",
+    "Expired_Date": "2025-11-08",
     "is_active": "true"
   },
   "Device6": {
