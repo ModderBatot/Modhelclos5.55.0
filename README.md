@@ -15,12 +15,12 @@
     "is_active": "true"
   },
   "Device4": {
-    "Token_id": "MTaeF5&FXjZ@",
+    "Token_id": "♥️",
     "Expired_Date": "2025-11-12",
     "is_active": "true"
   },
   "Device5": {
-    "Token_id": "o23SognvGF7*",
+    "Token_id": "♥️",
     "Expired_Date": "2025-11-12",
     "is_active": "true"
   },
