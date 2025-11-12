@@ -16,7 +16,7 @@
   },
   "Device4": {
     "Token_id": "iXn59!-MrVyv",
-    "Expired_Date": "2025-11-14",
+    "Expired_Date": "2025-11-13",
     "is_active": "true"
   },
   "Device5": {
