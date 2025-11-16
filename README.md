@@ -10,9 +10,9 @@
     "is_active": "true"
   },
   "Device3": {
-    "Token_id": "♥️",
+    "Token_id": "4r2ysPaR%!gR",
     "Expired_Date": "9999-09-09",
-    "is_active": "false"
+    "is_active": "true"
   },
   "Device4": {
     "Token_id": "♥️",
