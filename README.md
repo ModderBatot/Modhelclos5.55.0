@@ -12,7 +12,7 @@
   "Device3": {
     "Token_id": "4r2ysPaR%!gR",
     "Expired_Date": "9999-09-09",
-    "is_active": "true"
+    "is_active": "false"
   },
   "Device4": {
     "Token_id": "♥️",
