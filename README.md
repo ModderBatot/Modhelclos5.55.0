@@ -15,7 +15,7 @@
     "is_active": "true"
   },
   "Device4": {
-    "Token_id": "GZ#&+agQd6TY",
+    "Token_id": "♥️",
     "Expired_Date": "2025-11-24",
     "is_active": "true"
   },
